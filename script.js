@@ -11,6 +11,19 @@ const normal = [
 "Pinterest",
 "Twitter",
 "Reddit",
+"Clubhouse",
+"Zoom",
+"GoogleMeet",
+"Twitch",
+"Bubbly",
+"Rumbo",
+"Line",
+"Kakaotalk",
+"Quora",
+"Linkedin",
+"Skype",
+"WeChat",
+"Teamspeak"
 ];
 
 
